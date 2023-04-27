@@ -4,7 +4,9 @@
 ![result.png](https://github.com/Matoi647/VideoFFT/blob/main/test/result.png)
 
 ## 使用方法
-首先安装numpy和opencv-python
+安装ffmpeg: https://ffmpeg.org/download.html
+
+安装numpy和opencv-python
 ```
 pip install numpy opencv-python
 ```
